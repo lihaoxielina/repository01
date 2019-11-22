@@ -5,5 +5,7 @@ public class HelloGit {
         System.out.println("Hello Git");
 		
 		System.out.println("手动");
-    }
+
+        System.out.println("idea添加");
+   }
 }
